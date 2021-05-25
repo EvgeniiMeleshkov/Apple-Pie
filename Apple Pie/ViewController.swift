@@ -27,7 +27,7 @@ class ViewController: UIViewController {
     var playerOneScore = 0
     var playerTwoScore = 0
     
-     
+       
     
     var state : Game.State = .playerOne {
         didSet {
